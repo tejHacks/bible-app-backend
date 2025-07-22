@@ -29,7 +29,7 @@ cd echoverse-backend
 
 3. **Create a `.env` file:**
     ```
-    API_BIBLE_KEY=7efd8c7196bbc20912f6d50a3fec8fdb
+    API_BIBLE_KEY=GET YOURS AT BIBLEAPI(https://scripture.api.bible/)
     PORT=3000
     ```
 
