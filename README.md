@@ -17,10 +17,10 @@ Backend for the EchoVerse Bible app, handling API calls to [api.scripture.api.bi
 ## Installation
 
 1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/echoverse-backend.git
-    cd echoverse-backend
-    ```
+```bash
+git clone https://github.com/tejHacks/bible-app-backend.git
+cd echoverse-backend
+```
 
 2. **Install dependencies:**
     ```bash
