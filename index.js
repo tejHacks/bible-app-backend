@@ -12,6 +12,9 @@ app.use(express.json());
 
 // Routes
 app.use('/api', apiRoutes);
+app.get('/health', (req, res) => {
+  res.status(200).json({ status: 'OK' });
+});
 
 // Error Handler
 app.use(errorHandler);
